@@ -11,10 +11,12 @@ public class Lab {
             System.out.println("L2");
             res=n-y;
         }
-        else if(res<n-z && n-z<0){
+        else if(res<n-z && n-z<0   ){
             System.out.println("L3");
         }
-        else{
+        else    {
+
+
             System.out.println("L1");
         }
 
