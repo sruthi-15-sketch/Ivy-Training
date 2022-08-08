@@ -8,7 +8,7 @@ public class Lab {
         int n=sc.nextInt();
         int res=n-x;
         if(res<n-y && n-y<0){
-            System.out.println("L2");
+            System.out.println("L2   ");
             res=n-y;
         }
         else if(res<n-z && n-z<0   ){
