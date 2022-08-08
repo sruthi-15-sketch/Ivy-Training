@@ -5,7 +5,7 @@ public class RectangularTree {
         int row=sc.nextInt();
         int col=sc.nextInt();
         int m=sc.nextInt();
-        if (m-1%col==0 || m<=col || row-1*col>m){
+        if ((m-1)%col==0 || m<=col || (row-1)*col<m){
             System.out.println("Mango Tree");
         }
         else{
