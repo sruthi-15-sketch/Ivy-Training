@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dd41f465-453c-4ede-b7bd-1a1272759b81" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Pattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sequence.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,10 +36,10 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/sruthi.boddu/Ivy-Training/Ivy-Training/Project1"
+    "last_opened_file_path": "C:/Users/sruthi.boddu/Ivy-Training/Ivy-Training/Java Programmes"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Sequence">
     <configuration name="Lab" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lab" />
       <module name="LabSystem" />
@@ -47,8 +47,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Sequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sequence" />
+      <module name="LabSystem" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Sequence" />
         <item itemvalue="Application.Lab" />
       </list>
     </recent_temporary>
