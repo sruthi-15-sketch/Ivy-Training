@@ -6,7 +6,7 @@ public class Lab {
         int y=sc.nextInt();
         int z=sc.nextInt();
         int n=sc.nextInt();
-        int res=n-x;
+        int res=n- x;
         if(res<n-y && n-y<0){
             System.out.println("L2   ");
             res=n-y;
