@@ -15,9 +15,7 @@ public class Lab {
             System.out.println("L3");
         }
         else    {
-
-
-            System.out.println("L1");
+System.out.println("L1");
         }
 
     }
