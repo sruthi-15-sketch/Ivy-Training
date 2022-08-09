@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dd41f465-453c-4ede-b7bd-1a1272759b81" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Darray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StringFunctions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +39,7 @@
     &quot;last_opened_file_path&quot;: &quot;C:/Users/sruthi.boddu/Ivy-Training/Ivy-Training/Java Programmes&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Darray">
+  <component name="RunManager" selected="Application.StringFunctions">
     <configuration name="Darray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Darray" />
       <module name="LabSystem" />
@@ -67,8 +68,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Sequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Sequence" />
+    <configuration name="StringFunctions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringFunctions" />
       <module name="LabSystem" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -76,11 +77,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StringFunctions" />
         <item itemvalue="Application.Darray" />
         <item itemvalue="Application.Pattern" />
         <item itemvalue="Application.Salary" />
         <item itemvalue="Application.RectangularTree" />
-        <item itemvalue="Application.Sequence" />
       </list>
     </recent_temporary>
   </component>
