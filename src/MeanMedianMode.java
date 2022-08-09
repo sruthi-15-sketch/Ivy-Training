@@ -18,6 +18,21 @@ public class MeanMedianMode {
             float median=(float)((n/2)+((n/2)+1))/2;
             System.out.println("Median: " + median);
         }
-
+        HashMap<Integer,Integer> map1=new HashMap<>();
+        for(int i=0;i<n;i++){
+            if(map1.containsKey(arr[i])){
+                map1.put(arr[i],map1.get(arr[i])+1);
+            }
+            else{
+                map1.put(arr[i],1);
+            }
+        }
+        int max=0;
+        for(Map.Entry<Integer,Integer> entry:map1.entrySet()){
+            if (entry.getValue()>max){
+                max=entry.getKey();
+            }
+        }
+        System.out.println("Mode: "+max);
     }
 }
