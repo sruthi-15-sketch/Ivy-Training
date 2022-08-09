@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dd41f465-453c-4ede-b7bd-1a1272759b81" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/MeanMedianMode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Holiday.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,9 +39,16 @@
     &quot;last_opened_file_path&quot;: &quot;C:/Users/sruthi.boddu/Ivy-Training/Ivy-Training/Java Programmes&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.MeanMedianMode">
+  <component name="RunManager" selected="Application.Holiday">
     <configuration name="Darray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Darray" />
+      <module name="LabSystem" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Holiday" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Holiday" />
       <module name="LabSystem" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -61,13 +68,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Salary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Salary" />
-      <module name="LabSystem" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="StringFunctions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="StringFunctions" />
       <module name="LabSystem" />
@@ -77,11 +77,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Holiday" />
         <item itemvalue="Application.MeanMedianMode" />
         <item itemvalue="Application.StringFunctions" />
         <item itemvalue="Application.Darray" />
         <item itemvalue="Application.Pattern" />
-        <item itemvalue="Application.Salary" />
       </list>
     </recent_temporary>
   </component>
